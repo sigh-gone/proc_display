@@ -1,0 +1,12 @@
+/Users/a1/Projects/proc_display/target/debug/deps/proc_macro2-11e9c34f8069c5ac.rmeta: /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/lib.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/marker.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/parse.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/rcvec.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/detection.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/fallback.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/extra.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/wrapper.rs
+
+/Users/a1/Projects/proc_display/target/debug/deps/proc_macro2-11e9c34f8069c5ac.d: /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/lib.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/marker.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/parse.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/rcvec.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/detection.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/fallback.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/extra.rs /Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/wrapper.rs
+
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/lib.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/marker.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/parse.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/rcvec.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/detection.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/fallback.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/extra.rs:
+/Users/a1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.68/src/wrapper.rs:

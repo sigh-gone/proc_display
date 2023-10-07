@@ -4,8 +4,8 @@ use quote::quote;
 use syn::{parse_macro_input, Data, DeriveInput, Fields, Ident};
 
 
-#[proc_macro]
-pub fn display_fields(input: TokenStream) -> TokenStream {
+#[proc_macro_attribute]
+pub fn display_fields(meta : TokenStream, input: TokenStream) -> TokenStream {
     let input = parse_macro_input!(input as DeriveInput);
     let struct_name = &input.ident;
     let fields = match &input.data {
